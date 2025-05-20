@@ -1,0 +1,88 @@
+2025-05-11 18:31:14,501 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:31:14,508 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:31:14,508 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:31:14,523 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:31:14,523 - ERROR - Failed to generate image 1: b''
+2025-05-11 18:31:14,523 - ERROR - Failed to generate image 2: b''
+2025-05-11 18:31:14,524 - ERROR - Failed to generate image 3: b''
+2025-05-11 18:31:14,524 - ERROR - Failed to generate image 4: b''
+2025-05-11 18:31:14,565 - ERROR - Error opening image Data\Robot1.jpg: cannot identify image file 'Data\\Robot1.jpg'
+2025-05-11 18:31:14,565 - ERROR - Error opening image Data\Robot2.jpg: cannot identify image file 'Data\\Robot2.jpg'
+2025-05-11 18:31:14,566 - ERROR - Error opening image Data\Robot3.jpg: cannot identify image file 'Data\\Robot3.jpg'
+2025-05-11 18:31:14,566 - ERROR - Error opening image Data\Robot4.jpg: cannot identify image file 'Data\\Robot4.jpg'
+2025-05-11 18:33:17,670 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:33:17,671 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:33:17,680 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:33:17,888 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:33:17,888 - ERROR - Failed to generate image 1: b''
+2025-05-11 18:33:17,888 - ERROR - Failed to generate image 2: b''
+2025-05-11 18:33:17,889 - ERROR - Failed to generate image 3: b''
+2025-05-11 18:33:17,889 - ERROR - Failed to generate image 4: b''
+2025-05-11 18:34:41,886 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:34:41,887 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:34:41,895 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:34:41,897 - ERROR - Invalid API response: status=403, content-type=application/json; charset=utf-8
+2025-05-11 18:34:41,898 - ERROR - Failed to generate image 1: b''
+2025-05-11 18:34:41,898 - ERROR - Failed to generate image 2: b''
+2025-05-11 18:34:41,898 - ERROR - Failed to generate image 3: b''
+2025-05-11 18:34:41,898 - ERROR - Failed to generate image 4: b''
+2025-05-11 20:02:38,321 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:02:38,323 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:02:38,328 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:02:38,353 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:02:38,354 - ERROR - Failed to generate image 1: b''
+2025-05-11 20:02:38,373 - ERROR - Failed to generate image 2: b''
+2025-05-11 20:02:38,376 - ERROR - Failed to generate image 3: b''
+2025-05-11 20:02:38,378 - ERROR - Failed to generate image 4: b''
+2025-05-11 20:02:38,642 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:02:38,648 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:02:38,648 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:02:38,655 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:02:38,655 - ERROR - Failed to generate image 1 with fallback model: b''
+2025-05-11 20:02:38,657 - ERROR - Failed to generate image 2 with fallback model: b''
+2025-05-11 20:02:38,660 - ERROR - Failed to generate image 3 with fallback model: b''
+2025-05-11 20:02:38,662 - ERROR - Failed to generate image 4 with fallback model: b''
+2025-05-11 20:03:07,044 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:03:07,046 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:03:07,051 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:03:07,078 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:03:07,078 - ERROR - Failed to generate image 1: b''
+2025-05-11 20:03:07,094 - ERROR - Failed to generate image 2: b''
+2025-05-11 20:03:07,098 - ERROR - Failed to generate image 3: b''
+2025-05-11 20:03:07,100 - ERROR - Failed to generate image 4: b''
+2025-05-11 20:03:07,349 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:03:07,357 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:03:07,358 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:03:07,363 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:03:07,363 - ERROR - Failed to generate image 1 with fallback model: b''
+2025-05-11 20:03:07,366 - ERROR - Failed to generate image 2 with fallback model: b''
+2025-05-11 20:03:07,369 - ERROR - Failed to generate image 3 with fallback model: b''
+2025-05-11 20:03:07,371 - ERROR - Failed to generate image 4 with fallback model: b''
+2025-05-11 20:05:36,900 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:05:36,903 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:05:36,906 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:05:36,959 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:05:36,959 - ERROR - Failed to generate image 1: b''
+2025-05-11 20:05:36,986 - ERROR - Failed to generate image 2: b''
+2025-05-11 20:05:36,989 - ERROR - Failed to generate image 3: b''
+2025-05-11 20:05:36,991 - ERROR - Failed to generate image 4: b''
+2025-05-11 20:05:37,274 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:05:37,277 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:05:37,284 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:05:37,489 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:05:37,489 - ERROR - Failed to generate image 1 with fallback model: b''
+2025-05-11 20:05:37,491 - ERROR - Failed to generate image 2 with fallback model: b''
+2025-05-11 20:05:37,493 - ERROR - Failed to generate image 3 with fallback model: b''
+2025-05-11 20:05:37,495 - ERROR - Failed to generate image 4 with fallback model: b''
+2025-05-11 20:09:03,714 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:09:03,716 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:09:03,728 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:09:03,731 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:12:34,593 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:12:34,594 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:12:34,597 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:12:34,744 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:16:24,063 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:16:24,066 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:16:24,066 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
+2025-05-11 20:16:24,069 - ERROR - Invalid API response: status=402, content-type=application/json; charset=utf-8, body={"error":"You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."}
